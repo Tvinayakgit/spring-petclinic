@@ -1,4 +1,4 @@
-target/*
+www target/*
 .settings/*
 .classpath
 .project
